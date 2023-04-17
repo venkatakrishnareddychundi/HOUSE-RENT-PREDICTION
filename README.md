@@ -11,7 +11,7 @@ Dataset link -->https://github.com/venkatakrishnareddychundi/House-rent-predicti
 
 
 ### Login page 
-![image](https://github.com/venkatakrishnareddychundi/House-rent-prediction/blob/main/Screenshot%20(27).pngs)
+![image](https://github.com/venkatakrishnareddychundi/House-rent-prediction/blob/main/Screenshot%20(27).png)
 
 
 
